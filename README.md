@@ -1,4 +1,4 @@
-# npm-package-template-2023
+# npm-package-template-2024
 
 ## 初回設定
 
